@@ -2692,25 +2692,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nextjs@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "nextjs@workspace:."
-  dependencies:
-    "@types/node": ^20
-    "@types/react": ^18
-    "@types/react-dom": ^18
-    autoprefixer: ^10
-    eslint: ^8
-    eslint-config-next: 14.0.0
-    next: 14.0.0
-    postcss: ^8
-    react: ^18
-    react-dom: ^18
-    tailwindcss: ^3
-    typescript: ^5
-  languageName: unknown
-  linkType: soft
-
 "node-gyp@npm:latest":
   version: 10.0.0
   resolution: "node-gyp@npm:10.0.0"
@@ -2762,6 +2743,25 @@ __metadata:
   checksum: 9b2f14f093593f367a7a0834267c24f3cb3e887a2d9809c77d8a7e5fd08738bcd15af46f0ab01cc3a3d660386f015816b5c922cea8bf2ee79777f40874063184
   languageName: node
   linkType: hard
+
+"note@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "note@workspace:."
+  dependencies:
+    "@types/node": ^20
+    "@types/react": ^18
+    "@types/react-dom": ^18
+    autoprefixer: ^10
+    eslint: ^8
+    eslint-config-next: 14.0.0
+    next: 14.0.0
+    postcss: ^8
+    react: ^18
+    react-dom: ^18
+    tailwindcss: ^3
+    typescript: ^5
+  languageName: unknown
+  linkType: soft
 
 "object-assign@npm:^4.0.1, object-assign@npm:^4.1.1":
   version: 4.1.1
